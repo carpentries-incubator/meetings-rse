@@ -18,10 +18,10 @@ carpentry: 'incubator'
 carpentry_description: 'Lesson Description'
 
 # Overall title for pages.
-title: 'How to Run a Meeting, for dRTPs'
+title: 'Running Effective Online Meetings'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 2025-05-15
+created: 2026-02-20
 
 # Comma-separated list of keywords for the lesson
 keywords: 'meetings, collaboration, training, curriculum'
@@ -34,13 +34,13 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/tobyhodges/meetings-rse'
+source: 'https://github.com/carpentries-incubator/effective-meetings'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'tobyhodges@carpentries.org'
+contact: 'team@carpentries.org'
 
 # Navigation ------------------------------------------------
 #
