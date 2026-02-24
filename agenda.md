@@ -1,4 +1,4 @@
-=---
+---
 title: Creating an agenda
 teaching: 20
 exercises: 10
