@@ -1,73 +1,174 @@
 ---
-title: Facilitation & Disruptive Behaviours
+title: Facilitation and disruptive behaviours
 teaching: 30
 exercises: 30
 ---
 
 :::::: questions
 
-* How can I handle and reduce disruptions during a meeting?
-* How can I ensure that every meeting participant can contribute effectively?
+- How can I handle and reduce disruptions during a meeting?
+- How can I ensure that every meeting participant can contribute effectively?
 
 ::::::::::::::::
 
 
 :::::: objectives
 
-At the end of this episode, learners will be able to...
+At the end of this episode, participants will be able to...
 
-* intervene and provide feedback to remedy disruptive behaviours.
-* create contribution opportunities for all participants during a meeting.
+- Identify and mitigate disruptive behaviours.
+- Facilitate inclusive discussions that enable everyone to participate.
+- Prevent discussions from diverging away from the intended topic or going over time.
 
 ::::::::::::::::
 
 ## Introduction
 
-Everyone has been in a meeting that runs too long, is disorganised, has someone who talks too much, or has other pain points. Some of these challenges can be reduced by planning before the meeting but occasionally action will need to be taken directly during the meeting, e.g. interrupting the persistent talker, making people aware of the time left in the session, and implementing processes to reduce the likelihood of it happening again. 
+The meeting host may have done all of the necessary steps to prepare for a good meeting, including putting together a meaningful agenda and preparing participants to serve in the various meeting roles.
+However, once the meeting starts, and you've brought your participants together into your virtual space, a number of behaviours may combine to make the meeting uninspiring, demotivating, and downright painful.
+These behaviours can be particularly challenging when participants span multiple levels of your organisation's hierarchy, or have different levels of power due to systemic social marginalisation. 
 
-## Identifying Disruptive Behaviours
+:::::::::::::::: callout
 
-<!-- Based on https://coast.noaa.gov/ddb/ 
- some attributes have been merged, to focus on their common behaviours?-->
+## "Behaviours" versus "People"
 
-The goal of a facilitator chairing a meeting is to complete the agenda within the assigned timeframe, giving each attendee a chance to contribute to the decisions being made.
 
-It's easy for certain behaviours to work against this, by slowing down the meeting or suppressing voices. Therefore, it's important that the chair can identify these disruptors to prevent them negatively affecting the meeting.
+In discussing issues that may arise during meeting facilitation, we find it helpful to focus on specific *behaviours* that individuals may exhibit, rather than on the *people* themselves.
+We take this approach for two reasons: 
 
-### Overly Negative
+1) Peoples' behaviour naturally varies in different situations. Someone who goes off on long tangents in the morning before they've had their caffeine, may be more to-the-point after their first hot cuppa. 
+2) As an organization dedicated to the idea of "Always Learning", we strongly believe that people can change their behaviour over time and learn to be more helpful, productive, and welcoming meeting participants!
 
-<!-- Complaining, Indecisive, Argumentative -->
-Overly negative participants may frequently complain or argue, in pursuit of perfection or simply personal attention. This has the effect of reducing the optimism of other participants, and slowing down progress.
+::::::::::::::::::::::::
 
-### Overly Positive
 
-<!-- Eager -->
-Overly positive participants may be too agreeable, leading to overcommitments without critical assessment of viability. This can lead to under delivery or increased team stress when deliverables are due.
+Although you may not be able to flatten the organisational hierarchy or correct long-standing imbalances in power distribution in society, there are steps you can take during a meeting to mitigate negative disruptive behaviours. 
+Some of these strategies are most easily implemented when you are serving as the meeting Facilitator, but others can be enacted by any meeting participant.
+Using these strategies intentionally across your meetings can help shift organisational culture over time and build a more positive meeting environment in which all participants feel comfortable sharing their perspectives.
+
+## Common Disruptive Behaviors
+
+The goal of the Facilitator is to complete the agenda within the assigned timeframe, giving each participant a chance to contribute to the decisions being made.
+
+It's easy for certain behaviours to work against this, by slowing down the meeting or suppressing voices. Therefore, it's important that the Facilitator can identify these disruptors, and take actions to prevent them negatively affecting the meeting.
+
+::::::::::::::::::: challenge
+
+## Identifying Disruptive Behaviours (5 minutes)
+
+Think of a disruptive meeting behavior that you have observed.
+Describe what happened, how it impacted the meeting, and what could have been done to avoid or correct the disruption. 
+
+This exercise should take about 5 minutes.
+
+:::::: solution
+
+The list generated by participants will differ for each session, but some common themes that might emerge include: 
+
+- One or a few people talking repeatedly while others don't talk at all
+- Interrupting
+- Re-stating someone else's idea and claiming it as their own
+- Someone talking for a long time
+- Playing "devil's advocate"
+- Shutting down other people's ideas, being dismissive or overly negative
+- Participants stuck debating unimportant details ("bike shedding")
+- Off-topic discussions happening in the chat
+- People *not* contributing even though their expertise would be valuable!
+
+:::::::::::::::
+
+::::::::::::::::::::::::::
+
+The United States' National Ocean and Atmospheric Association provides one [possible taxonomy of disruptive behaviours](https://coast.noaa.gov/ddb/), along with possible interventions for each.
+In this course, we will focus on some of the most common behaviours, and those most likely to prevent the meeting from being successful, but we encourage you to check out this reference for further learning. 
 
 ### Dominating Conversation
 
 <!-- Talkative, Dominating, Arrogant -->
-Some participants love to speak, they may have strong ideas or simply believe their experience/tenure gives them a larger platform. This may lead to rambling, and reduce the ability for all participants to feel comfortable contributing their own ideas.
 
-### Diverting Conversation
-<!-- Diverting -->
+Some people love to speak. 
+They may have strong ideas, or may simply believe their experience or seniority gives them the right to dominate the conversation.
+This may lead to rambling, and limit opportunities for all participants to contributing their own ideas.
+In addition to taking up more than their fair share of the meeting time, overly talkative individuals may also negatively impact the group's motivation.
 
-Some participants frequently attempt to divert the conversation, this may be an attempt to stay light-hearted during stressful meeting or simply disinterest in the topic. This may lead to the meeting running over time, or agenda items not being completed.
+Anyone can be verbose, but social conditioning and power dynamics mean that individuals from groups carrying higher degrees of privilege are more likely to dominate any particular meeting. 
+This means that individuals from marginalised groups are likely to have fewer opportunities to participate in not just the current meeting, but the sum total of meetings they attend in their careers.
+As the meeting Facilitator, some things you can do to disrupt this pattern include: 
 
-<!-- Not covered: Shy, Apathetic -->
+- explicitly noting an imbalance in who has spoken (e.g. "I see that Ethan has another hand, but we haven't heard from Nadia or Felix yet.")
+- only allowing participants to share one idea per turn (e.g. if Zane starts by saying "I have two points to make" interrupting with "Thanks Zane, could you please pick the most important point for this round and we'll come back to your second point after Theo and Valentina's hands?")
+- interrupting someone who has been speaking too long, or is repeating themselves (e.g. "Thanks for sharing Noelle - I want to make sure we have an opportunity to hear from Priya before we wrap up this agenda item.")
 
-## Handling disruptive behaviour
+Even if you are not the Facilitator, if you are in a position of relative privilege, there are some things you can do at any meeting you attend to help equalise opportunities: 
 
-Dealing with disruptions can be slightly scary, but the other meeting participants rely on you, as the chair, to bring the meeting back on track. Most of the times this can be done in a gentle, non-confrontational manner. This can be done as a two-step intervention:
+- If you frequently are the first to speak, consider waiting to put up your hand until at least one or two others have shared their thoughts.
+- If the point you were going to make has been made by someone else, put down your hand and note in the chat that you agree with them (e.g. "+1 to Mariam's point").
+- If the next person on the list has spoken less than you, consider ceding your hand to them.
+
+These strategies can be particularly effective if the individuals you are ceding time to or noting agreement with are members of marginalised groups.
+
+### Indecisive or Argumentative
+
+There were goals for bringing together these individuals for this meeting.
+Whether those goals were to make a specific decision, implement the next stage of a project, or brainstorm funding opportunities to pursue, it can be frustrating to have those goals sidelined by individuals who are overly indecisive or argumentative. 
+
+An individual who is overly argumentative may want to play "devil's advocate" - making arguments in favor of a position they don't actually agree with.
+They may also continue to raise issues that have already been resolved, or keep debating after the rest of the group has come to consensus.
+
+Similarly, someone who is overly indecisive may spend an inappropriate amount of time considering every detail of a proposed solution.
+While these considerations may be necessary to implement the decision, the meeting itself may not be the appropriate venue to hash out those details. 
+
+Although it can be important to consider a given issue from multiple angles, each of these behavior types may have the effect of slowing down the meeting's progress and preventing important decisions from being reached. 
+Let's apply our previous discussion of issues with individuals dominating conversations to identify strategies that facilitators and individual meeting participants can use to mitigate these issues. 
+
+:::::::::: challenge
+
+## Identifying Strategies (10 minutes)
+
+In the Etherpad, share one or more ideas for how a Facilitator could help resolve issues arising from participants' indecision or argumentativeness. 
+Also add one idea for how a regular meeting participant can contribute to resolving these issues. 
+
+:::::::::::::::::::: solution
+
+The group will likely come up with a few of the strategies below (as well as others we haven't thought of!). 
+The meeting Facilitator should highlight the strategies the group has identified, including any recurring themes, while adding any from the list below that have been missed. 
+
+
+**Facilitator Strategies**
+
+- Clarify the decision stage, ideally at the start of the agenda item. Is this item being raised for initial brainstorming, or is a decision needed today?
+- Clarify consequences of delay. What happens if the decision isn't made today?
+- Set decision making rules in advance. We will discuss this in detail later in this lesson.
+- Ask participants to restrict comments to those that add new information or concerns.
+- Summarise and test for consensus (e.g. "It sounds like there is general agreement about X, but a concern about Y. Is that a fair summary?")
+- Ask participants to be specific about risk levels. How likely is the scenario they are raising? If it does occur, how critical would it be?
+- Redirect details to asynchronous follow-up. 
+
+**Participant Strategies**
+
+- Avoid performing "devil's advocacy" unless explicitly invited.
+- State your own position before critiquing others'.
+- Acknowledge when the discussion is becoming too detail-oriented (e.g. "Is this something we can follow-up on async?")
+- Volunteer to handle implementation details outside of the meeting.
+- Offer synthesis to help clarify possible directions (e.g. "It sounds like the two paths forward are A and B.")
+
+::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::
+
+## Proactively Handling Disruptive Behavior
+
+Dealing with disruptions can be scary, especially if you are not the most senior person in the room, but the other meeting participants rely on you, as the Facilitator, to bring the meeting back on track. 
+Most of the times this can be done in a gentle, non-confrontational manner using a two-step intervention:
 
 - First, interrupt, if necessary, and state your observation of what is happening. E.g. "We are getting a bit of track here and are no longer talking about our objective."
-- Second, suggest a constructive way forward. E.g. "Let us refocus, the question we were discussing was... Who can suggest a solution here?"
+- Second, suggest a constructive way forward. E.g. "Let us refocus, the question we were discussing was... Who can suggest a solution?"
 
-However, if this is not successful, it might be necessary to be firmer in calling out the disruption. Address the disrupting person by name, and tell them what to do or stop doing. For example, "Tina, please refrain from using dismissive language when talking about your colleagues work."
+However, if this is not successful, it might be necessary to be firmer in calling out the disruption. 
+Address the disrupting person by name, and tell them what to do or stop doing. 
+For example, "Tina, please don't interrupt."
 
-See also
-- [Life Labs Learning: Meeting Course Correction](https://www.lifelabslearning.com/book/download/meeting-course-corrections)
-- [NOAA: Dealing with disruptive behaviours](https://coast.noaa.gov/ddb/)
+For more actionable meeting facilitation strategies, we recommend checking out the Life Labs Learning two-page [Meeting Course-Correction Guide](https://www.lifelabslearning.com/book/download/meeting-course-corrections). 
 
 
 :::::::::::::::::::::::::::::::::::::: discussion

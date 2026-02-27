@@ -6,7 +6,8 @@ exercises: 15
 
 :::::: questions
 
-* TBD
+* What information is important to capture during a meeting? 
+
 ::::::::::::::::
 
 
@@ -14,6 +15,10 @@ exercises: 15
 
 TBD
 ::::::::::::::::
+
+
+
+
 
 
 
