@@ -87,6 +87,69 @@ We recommend allowing AI notetakers on a case-by-case basis if requested by a me
 ## How to Take Good Notes
 
 
+Let's dig more deeply into what kind of information should be recorded in your meeting notes. To get us started, let's test out your current note taking technique with an exercise. 
+
+:::::::::::::::: challenge
+
+## Catering Decisions (Take 2)
+
+As an individual, pretend you are the Notetaker for the short meeting segment recorded in this video. 
+Watch the recording one time only, and type out whatever information you think is important to be recorded in the notes.
+Share your notes with a partner and compare.
+What did you both agree was important?
+Were there any pieces of information that you captured that your partner didn't, or vice versa? 
+
+
+:::::::::::::::::::::::::::::::: solution
+
+
+A possible set of notes from this meeting might be: 
+
+- Erin: Options are food trucks or venue catering. Deadline to tell venue is end of the week.
+- Angelique: Food trucks had long lines and ran out of food.
+- Toby: Food trucks were really good. Venue options are boring.
+- Rob: Food trucks were good but allergy situation last year. Venue catering would have ingredients list. Safer. 
+- Angelique: Venue catering would require us to track orders. Complicated. 
+- Erin: No - venue catering is a set order in advance. 
+- Rob: What about vegetarian/vegan and gluten free options? 
+- Erin: Different set menus available. 
+- Toby: We don't need to decide on the exact order right now. 
+- Erin: Correct - just need to decide on venue vs. food trucks. 
+- Toby: In favor of food trucks. More variety and more interactive. 
+- Angelique: Overlap with Ramadan. Need take-away options. 
+- Rob: Agree with Angelique. Vote for venue catering. 
+- Erin: Three votes for venue option. That's what we're doing. Need vegetarian opinion on final order. 
+- Angelique: Want to help decide final menu. 
+- Erin: Will tell the venue we're using their catering. Will send Angelique and Rob menu options. Get choices back to me by Tuesday?
+- Rob: Busy week - can't look at whole menu set. 
+- Angelique: Can narrow down the options and send to you to review. 
+- Rob: Ok!
+- Erin: Adjourns meeting. 
+
+Action items: 
+
+- Notify venue will use their catering for the conference. (Erin, by end of week)
+- Send Angelique all menu options in our budget. (Erin, asap)
+- Narrow down option list and send to Rob for final selections. (Angelique, ?)
+- Send final choices to Erin. (Rob, Tuesday?)
+
+
+::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Instructor Note
+
+Participants who are really paying attention may notice that the deadlines for all of the sub-tasks between Erin's "I'll send you a list of menu options" and "Please get me your decisions by Tuesday" weren't discussed. 
+Angelique and Rob would need to coordinate outside of the meeting on when they need to complete their individual review steps. 
+They may also need to more explicitly decide who is sending the final menu selections to Erin. Depending on the complexity of the task, the number of intermediate steps, and how frequently these individuals work together, that may be fine, or you may want to detail these responsibilities during the meeting time. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 
 
