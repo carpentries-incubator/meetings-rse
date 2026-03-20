@@ -52,7 +52,15 @@ You're already well prepared for those elements!
 
 ## The Steps
 
+There are five steps to Martha's rules, although the designers note that these five steps do not need to be followed exactly, and should be modified based on the group's needs. The five steps are: 
 
+1) Preparation, 
+2) Generating proposals, 
+3) Making proposals concrete, 
+4) Taking a "sense" vote, and 
+5) Taking a "vote" vote.
+
+We've already covered the preparation steps, so let's talk about generating proposals.  
 
 :::::: challenge
 
