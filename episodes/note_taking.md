@@ -32,6 +32,16 @@ To answer this question, it's useful to first focus on what the goal(s) are for 
 
 Depending on the formality of the meeting (e.g. a Board meeting), you may also have an obligation to provide an official record of the meeting, who attended, and what was discussed and decided.
 
+:::::: callout
+
+## Note Taking in Public
+
+We strongly recommend that note taking for your meetings take place in a document that is accessible to everyone invited to the meeting (for example a shared Google doc). 
+If everyone can see notes being taken in real time, the Notetaker will be motivated to actually take notes.
+In addition, other participants will be able to help out by adding information that is missed, or correcting a point they made if they notice it being misrepresented in the notes.
+
+
+::::::::::::::::
 
 ## Why Your Notetaker Should be a Human
 
@@ -87,7 +97,8 @@ We recommend allowing AI notetakers on a case-by-case basis if requested by a me
 ## How to Take Good Notes
 
 
-Let's dig more deeply into what kind of information should be recorded in your meeting notes. To get us started, let's test out your current note taking technique with an exercise. 
+Let's dig more deeply into what kind of information should be recorded in your meeting notes. 
+To get us started, let's test out your current note taking technique with an exercise. 
 
 :::::::::::::::: challenge
 
@@ -150,12 +161,32 @@ They may also need to more explicitly decide who is sending the final menu selec
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+You and your partner may have captured different levels of detail, and that's ok!
+Hopefully, you both identified most of the following key elements: 
 
+- decisions reached (and vote counts if appropriate),
+- what follow-up actions were agreed upon,
+- who is responsible for each action item, and
+- what the deadline is for their completion.
 
+Action items can either be collected into a list at the bottom of the meeting notes, or called to attention with special formatting (e.g. highlighting).
+Either way, they should be quickly findable by someone skimming the notes. 
+
+Additional items that are good to capture in the notes if possible include: 
+
+- major points of opposition or dissent, 
+- concerns, cautionary points, or alternative paths forward. 
+
+Meeting notes should also include the date and time of the meeting and a list of participants.
+This makes it easier to answer questions later that may arise about who the decision-makers were on a particular issue.
+If possible, end your meetings at least 5-10 minutes before the scheduled stop time.
+This gives your notetaker time to consolidate the action item list and gives everyone else a few minutes for a bio break before their next meeting.
+In our experience, very few people have ever been unhappy about a meeting ending early!
 
 
 :::::: keypoints
 
-TDB
+- There are several good reasons to dedicate human attention to producing good meeting notes. 
+- Notes shouldn't be a full transcript of the meeting, but rather an attempt to capture important elements like decisions and follow-up needed.
 
 ::::::::::::::::
